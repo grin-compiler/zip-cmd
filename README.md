@@ -1,2 +1,2 @@
 # zip-cmd
-CLI tool for the Haskell `zip` library
+Simple CLI tool for the Haskell `zip` library
